@@ -1,0 +1,178 @@
+body {
+    background-image: url('https://img.freepik.com/fotos-gratis/textura-de-papel-amarrotada-branca-para-o-fundo_1373-162.jpg?w=2000');
+}
+
+header h1 {
+    padding-left: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000000;
+}
+
+header {
+    background-color:#f5f1a4;
+    padding: 10px;
+}
+
+div.links{
+    margin-top: -75px;
+    float: right;
+    padding-right: 30px;
+    color: #000000;
+}
+
+div.links2{
+    margin-top: -50px;
+    float: right;
+    padding-right: 30px;
+}
+
+div.links3{
+    margin-top: -25px;
+    float: right;
+    padding-right: 30px;
+}
+
+
+div.texto1 {
+    padding-top: 10px;
+    padding-left: 70px;
+    max-width: 500px;
+    max-height: 100px;
+}
+
+div.imgzumbi {
+    padding-right: 70px;
+    margin-top: -100px;
+    float: right;
+}
+
+div.texto2 {
+    padding-top: 380px;
+    padding-left: 70px;
+    max-width: 500px;
+    max-height: 100px;
+}
+
+div.texto3 {
+    margin-top: -100px;
+    padding-top: 0px;
+    padding-right: 70px;
+    float: right;
+    max-width: 700px;
+    max-height: 100px;
+}
+
+div.imgleiaurea {
+    width: 100px;
+    height: auto;
+    margin-top: 200px;
+    padding: 70px;
+}
+
+div.texto4 {
+    margin-top: -940px;
+    padding-right: 70px;
+    max-width: 600px;
+    float: right;
+}
+
+div.texto5 {
+    margin-top: -420px;
+    padding-right: 70px;
+    max-width: 600px;
+    float: right;
+}
+
+div.texto6 {
+    padding-left: 70px;
+    max-width: 500px;
+}
+
+div.imgmovimentonegro {
+    float: right;
+    padding-right: 70px;
+    margin-top: -380px;
+}
+
+div.texto7 p {
+    padding-left: 70px;
+    width: 600px;
+}
+
+div.texto7 h2 {
+    text-align: center;
+    padding-left: 70px;
+    padding-right: 70px;
+    width: 600px;
+}
+
+div.texto8 {
+    margin-top: -445px;
+    padding-right: 70px;
+    width: 641px;
+    float: right;
+}
+
+div.texto8 h2 {
+    text-align: center;
+    margin-top: 21px;
+    padding-right: 70px;
+    width: 641px;
+}
+
+div.imgcontraracismo {
+    margin-top: 50px;
+    padding-left: 70px;
+}
+
+div.texto9 {
+    margin-top: -210px;
+    padding-right: 70px;
+    float: right;
+    max-width: 1040px;
+}
+
+div.texto10 {
+    padding-right: 70px;
+    float: left;
+    padding-left: 70px;
+}
+
+footer {
+    margin-top: 450px;
+    padding: 90px;
+    background-color: #f5f1a4
+}
+
+footer h3{
+    margin-top: -50px;
+    margin-left: -50px;
+    float: left;
+    padding-left: 20px;
+    background-color: #f5f1a4
+}
+
+footer h5{
+    margin-top: 0px;
+    margin-left: -50px;
+    float: left;
+    padding-left: 20px;
+    background-color: #f5f1a4
+}
+
+footer p {
+    margin-top: 60px;
+    margin-right: -20px;
+    background-color: #f5f1a4;
+    float: right;
+}
+
+.footerlist {
+    float: left;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 20px;
+    margin-left: -850px;
+    padding-left: 30px;
+}
